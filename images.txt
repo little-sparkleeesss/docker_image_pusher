@@ -2,3 +2,5 @@
 #--platform=linux/arm64
 xhofe/alist:latest
 mcdreforged/mcdreforged:latest
+jellyfin/jellyfin:latest
+metacubex/mihomo:latest
