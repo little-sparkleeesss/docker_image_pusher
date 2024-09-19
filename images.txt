@@ -5,3 +5,4 @@ mcdreforged/mcdreforged:latest
 jellyfin/jellyfin:latest
 metacubex/mihomo:latest
 natfrp/launcher:latest
+linuxserver/qbittorrent:latest
