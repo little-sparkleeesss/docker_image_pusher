@@ -7,3 +7,4 @@ metacubex/mihomo:latest
 natfrp/launcher:latest
 linuxserver/qbittorrent:latest
 ghostchu/peerbanhelper:v6.2.7
+newfuture/ddns:latest
