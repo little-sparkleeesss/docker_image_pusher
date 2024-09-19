@@ -4,10 +4,11 @@
 mailcow/acme:latest
 xhofe/alist:latest
 newfuture/ddns:latest
+httpd:latest
 jellyfin/jellyfin:latest
 natfrp/launcher:latest
 mcdreforged/mcdreforged:latest
 metacubex/mihomo:latest
+nginx:latest
 ghostchu/peerbanhelper:v6.2.7
 linuxserver/qbittorrent:latest
-httpd:latest
