@@ -6,3 +6,4 @@ jellyfin/jellyfin:latest
 metacubex/mihomo:latest
 natfrp/launcher:latest
 linuxserver/qbittorrent:latest
+ghostchu/peerbanhelper:v6.2.7
