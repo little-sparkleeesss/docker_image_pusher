@@ -10,4 +10,4 @@ mcdreforged/mcdreforged:latest
 metacubex/mihomo:latest
 ghostchu/peerbanhelper:v6.2.7
 linuxserver/qbittorrent:latest
-fnichol/uhttpd:latest
+#fnichol/uhttpd:latest
