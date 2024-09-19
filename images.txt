@@ -9,3 +9,4 @@ linuxserver/qbittorrent:latest
 ghostchu/peerbanhelper:v6.2.7
 newfuture/ddns:latest
 mailcow/acme:latest
+fnichol/uhttpd:latest
