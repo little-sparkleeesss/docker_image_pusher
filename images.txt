@@ -8,6 +8,7 @@ httpd:latest
 jellyfin/jellyfin:latest
 natfrp/launcher:latest
 mcdreforged/mcdreforged:latest
+ghcr.io/metacubex/metacubexd
 metacubex/mihomo:latest
 nginx:latest
 ghostchu/peerbanhelper:v6.2.7
