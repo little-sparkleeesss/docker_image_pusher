@@ -13,3 +13,4 @@ metacubex/mihomo:latest
 nginx:latest
 ghostchu/peerbanhelper:v6.2.8
 linuxserver/qbittorrent:latest
+hslr/sun-panel:latest
