@@ -12,5 +12,6 @@ ghcr.io/metacubex/metacubexd
 metacubex/mihomo:latest
 nginx:latest
 ghostchu/peerbanhelper:v6.2.8
+portainer/portainer-ce:latest
 linuxserver/qbittorrent:latest
 hslr/sun-panel:latest
