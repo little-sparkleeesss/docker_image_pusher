@@ -3,6 +3,7 @@
 
 mailcow/acme:latest
 xhofe/alist:latest
+cloudflare/cloudflared:latest
 newfuture/ddns:latest
 httpd:latest
 jellyfin/jellyfin:latest
